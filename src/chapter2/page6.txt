@@ -1,1 +1,3 @@
 java has done
+
+editor:  sme additions Java is cool
